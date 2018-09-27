@@ -1,6 +1,7 @@
 # Advanced epidemiology course
 
 The course will take place at 2.00-4.00 p.m. on Tuesday afternoons in the 2nd semester.
+It will take place in Lecture Room 2 in Lilybank Gardens (lecture room is in House 2, enter building through House 1).
 
 # Course outline
 
