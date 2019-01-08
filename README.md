@@ -27,3 +27,7 @@ Targeted critical appraisal with a focus on methods (2000-2500 words).
 
 ## Interactive web-apps
 Some of the couse will be taught using interactive web-apps which we are developing. The first of which is available at https://ihwph-hehta.shinyapps.io/competing_risks/.
+
+## Reading list
+
+It is easy to be overwhelmed by reading lists. [This list is very much optional](https://docs.google.com/document/d/1eqVzqYM6ozlrt5I_4aqqe6OIR6OV6EJ8G6Tg1lBaQ4Q/edit?usp=sharing). You are also encouraged to comment and/or suggest alternatives.
