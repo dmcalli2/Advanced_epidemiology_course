@@ -23,7 +23,8 @@ Eleven sessions. The first ten will comprise a lecture and tutorial this will be
 Lectures and tutorials with some web-based interactive tools.
 
 ## ASSESSMENT METHOD
-Targeted critical appraisal with a focus on methods (2000-2500 words).
+See the Assignment folder above for details.
+
 
 ## Interactive web-apps
 Some of the couse will be taught using interactive web-apps which we are developing. The first of which is available at https://ihwph-hehta.shinyapps.io/competing_risks/.
