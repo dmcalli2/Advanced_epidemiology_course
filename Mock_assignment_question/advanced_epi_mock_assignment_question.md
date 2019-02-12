@@ -12,7 +12,10 @@ Both cases and controls were collected from those newly admitted to eight hospit
 
 No matching procedures were conducted between cases and controls. Logistic regression analysis for the association between lung cancer and indoor air pollution was performed adjusting for the following variables:- age, education, other household members smoked in adulthood and mother smoked in childhood.
 
-## Question
-Draw a causal diagram using the notation taught in lecture 3: include the exposure and outcome of interest, common sources (ie potential confounders) and common effects (ie colliders).
+## Questions
 
-For the purposes of this exercise assume that all variables, when measured, were measured accurately (eg smoking). Make sure that you indicate where the study has conditioned on a node (ie where it has employed restriction, stratification, matching or regression)
+1. Draw a causal diagram using the notation taught in lecture 3: include the exposure and outcome of interest, common sources (ie potential confounders) and common effects (ie colliders). For the purposes of this exercise assume that all variables, when measured, were measured accurately (eg smoking). Make sure that you indicate where the study has conditioned on a node (ie where it has employed restriction, stratification, matching or regression)
+
+**I ADDED THIS SECOND QUESTION TO GIVE YOU EXPERIENCE OF WRITING A SHORT NOTE.**
+
+2. Identify one open pathway through the diagram you have created and explain in plain language how the exposure and outcome might be associated (except via the causal pathway) (10 marks).
