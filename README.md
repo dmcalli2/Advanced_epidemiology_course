@@ -33,4 +33,5 @@ Some of the couse will be taught using interactive web-apps which we are develop
 
 It is easy to be overwhelmed by reading lists. [This list is very much optional](https://docs.google.com/document/d/1eqVzqYM6ozlrt5I_4aqqe6OIR6OV6EJ8G6Tg1lBaQ4Q/edit?usp=sharing). You are also encouraged to comment and/or suggest alternatives.
 
-### IN revision class informal, anonymous, no personal data, survey
+### In revision class informal, anonymous, no personal data, survey
+https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyGnBBcv0-cxKk4al4ZLpQg1UNzgwQlFEN1k0T1JNWFJTME9RMFI5MDk5Sy4u
