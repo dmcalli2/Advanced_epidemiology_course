@@ -32,3 +32,8 @@ Some of the couse will be taught using interactive web-apps which we are develop
 ## Reading list
 
 It is easy to be overwhelmed by reading lists. [This list is very much optional](https://docs.google.com/document/d/1eqVzqYM6ozlrt5I_4aqqe6OIR6OV6EJ8G6Tg1lBaQ4Q/edit?usp=sharing). You are also encouraged to comment and/or suggest alternatives.
+
+### IN revision class informal, anonymous, no personal data, survey
+
+https://www.surveymonkey.co.uk/r/KHHHCFF
+
