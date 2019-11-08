@@ -3,8 +3,8 @@ Session	Topic	Detail	Proposed lecturer	Date	Time	Email address
 2	Causation	Concepts in causation 1	Colin Fischbacher	21/01/2020	2-4pm	colin.fischbacher@nhs.net
 3	Causation	Concepts in causation 2	Colin Fischbacher	28/01/2020	2-4pm	colin.fischbacher@nhs.net
 4	Approaches to estimating causal effects	"Methods which can accomodate observed confounders (eg restriction, stratification, regression, and matching)"	Vittal Kattikreddi	04/02/2020	2-4pm	vittal.kattikreddi@glasgow.ac.uk
-5	Approaches to estimating causal effects	"Methods designed to accomodate unobserved counfounding (eg regression discontinuity, difference-in-difference, IVs, synthetic controls etc)"	Janet Bouttell	11/02/2020	2-4pm	Janet.Bouttell@glasgow.ac.uk
-6	Administrative data	Understanding typical data sources and potential and pitfalls	Mike Flemming	18/02/2020	2-4pm	Michael.Fleming@glasgow.ac.uk
+5	Administrative data	Understanding typical data sources and potential and pitfalls	Mike Flemming	11/02/2020	2-4pm	Michael.Fleming@glasgow.ac.uk
+6	Approaches to estimating causal effects	"Methods designed to accomodate unobserved counfounding (eg regression discontinuity, difference-in-difference, IVs, synthetic controls etc)"	Janet Bouttell	18/02/2020	2-4pm	Janet.Bouttell@glasgow.ac.uk
 7	Scale and effect measure modification	Understanding implications of scale for interpreting main effects and interactions	Anna Pearce	25/02/2020	2-4pm	Anna.Pearce@glasgow.ac.uk
 8	Competing risks	Understanding implication of competing risks for interpreting effects	David McAllister	03/03/2020	2-4pm	david.mcallister@glasgow.ac.uk
 9	Measurement and bias	"Surveys, non-differential misclass. and systematic bias"	Kibuchi Eliud	10/03/2020	2-4pm	Eliud.Kibuchi@glasgow.ac.uk
