@@ -10,7 +10,6 @@ The course will take place at 12-2pm in Clarice Pears building see [Timetable](/
 
 # HTML slides
 
-[Competing risks](/08_competing_risks.html)
 
 
 # Course outline
