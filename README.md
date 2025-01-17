@@ -3,12 +3,17 @@
 
 # Advanced epidemiology course
 
+# Github pages
+
+See [Website](https://dmcalli2.github.io/Advanced_epidemiology_course/)
+
 The course will take place at 12-2pm in Clarice Pears building see
-[Timetable](.\timetable.html)
+[Timetable](https://dmcalli2.github.io/Advanced_epidemiology_course/timetable.html)
 
 # HTML slides
 
-[Competing risks](.\08_competing_risks.html)
+[Competing
+risks](https://dmcalli2.github.io/Advanced_epidemiology_course/08_competing_risks.html)
 
 # Course outline
 
