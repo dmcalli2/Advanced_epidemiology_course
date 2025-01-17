@@ -2,7 +2,10 @@
 title: "Competing risks"
 author: "David McAllister"
 date: today
-output: pptx
+format:
+  revealjs:
+    progress: true
+  gfm: default
 echo: false
 warning: false
 
@@ -57,6 +60,15 @@ library(png)
 - Long-term outcomes following chemotherapy - childbirth
   - Childbirth
   - Relapse
+  
+## Exercise
+
+Come up with some examples of competing risks
+ 
+ -
+ -
+ -
+ 
 
 # Rates and risks
 
