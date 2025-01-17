@@ -592,4 +592,4 @@ Specifically, what happens to the effect of the treatment on the target event wh
 
 see https://docs.google.com/document/d/1eqVzqYM6ozlrt5I_4aqqe6OIR6OV6EJ8G6Tg1lBaQ4Q/edit?usp=sharing
 
-You will also find the link to this on the front-page of https://github.com/dmcalli2/Advanced_epidemiology_course
+You will also find the link to this on the front-page of https://dmcalli2.github.io/Advanced_epidemiology_course/
