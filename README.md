@@ -6,7 +6,7 @@ editor_options:
 
 # Advanced epidemiology course
 
-The course will take place at 12-2pm in Clarice Pears building see [Timetable](/timetable)
+The course will take place at 12-2pm in Clarice Pears building see [Timetable](/timetable.md)
 
 # HTML slides
 
