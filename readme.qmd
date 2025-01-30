@@ -1,8 +1,6 @@
 ---
 title: "readme"
 format:
-  gfm:
-    output-file: readme.md
   html:
     output-file: index.html
 editor: source
@@ -11,6 +9,8 @@ format-links: false
 ---
 
 # Advanced epidemiology course
+
+[Let's put the link in now](https://dmcalli2.github.io/Advanced_epidemiology_course/another_link_example.html)
 
 # Github pages
 

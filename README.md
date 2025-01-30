@@ -1,7 +1,5 @@
 # readme
 
-[Here is that link](https://dmcalli2.github.io/another_link_example.html)
-
 
 # Advanced epidemiology course
 
