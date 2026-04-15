@@ -7,7 +7,7 @@ David McAllister
 - Understand relationship between rates and risks
 - Understand concept of competing risks
 - Get a feel for the impact of competing risks on outcomes and treatment
-  effects
+  effects 
 
 ## Overview 
 
