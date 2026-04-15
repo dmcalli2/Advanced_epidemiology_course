@@ -2,10 +2,7 @@
 title: "Competing risks"
 author: "David McAllister"
 date: today
-format:
-  revealjs:
-    progress: true
-  gfm: default
+format: revealjs
 echo: false
 warning: false
 scrollable: true
