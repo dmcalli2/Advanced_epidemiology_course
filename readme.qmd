@@ -14,7 +14,7 @@ format-links: false
 
 # Github pages
 
-See [Website](https://dmcalli2.github.io/Advanced_epidemiology_course/)
+See [Website](https://dmcalli2.github.io/Advanced_epidemiology_course/) 
 
 The course will take place at 12-2pm in Clarice Pears building see [Timetable](https://dmcalli2.github.io/Advanced_epidemiology_course/timetable.html)
 
