@@ -3,7 +3,7 @@
 
 # Advanced epidemiology course
 
-# Github pages
+# Github pages 
 
 See [Website](https://dmcalli2.github.io/Advanced_epidemiology_course/)
 
