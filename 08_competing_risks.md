@@ -9,7 +9,7 @@ David McAllister
 - Get a feel for the impact of competing risks on outcomes and treatment
   effects
 
-## Overview
+## Overview 
 
 - Spend some time on rates and risks
 
