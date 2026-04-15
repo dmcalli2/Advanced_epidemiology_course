@@ -2,7 +2,7 @@
 David McAllister
 2025-01-17
 
-## Learning  outcomes 
+## Learning outcomes 
 
 - Understand relationship between rates and risks
 - Understand concept of competing risks
